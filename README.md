@@ -1,6 +1,6 @@
 # Personal Portfolio Website 🚀
 
-A modern, responsive portfolio website showcasing my professional journey and projects. Built with **React**, **Tailwind CSS**, and enhanced with smooth animations, this portfolio offers an engaging user experience with both light and dark modes..
+A modern, responsive portfolio website showcasing my professional journey and projects. Built with **React**, **Tailwind CSS**, and enhanced with smooth animations, this portfolio offers an engaging user experience with both light and dark modes.
 
 ## ✨ Features
 
